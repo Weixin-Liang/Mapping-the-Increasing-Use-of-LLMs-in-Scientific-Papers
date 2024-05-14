@@ -26,8 +26,8 @@ repository was developed and has been thoroughly tested with pandas 2.0.3, numpy
 You can install this package locally via an editable installation or the provided yml file:
 
 ```bash
-git clone https://github.com/Weixin-Liang/internal-release-distributional-GPT-quantification.git
-cd internal-release-distributional-GPT-quantification
+git clone https://github.com/Weixin-Liang/Mapping-the-Increasing-Use-of-LLMs-in-Scientific-Papers.git
+cd Mapping-the-Increasing-Use-of-LLMs-in-Scientific-Papers
 conda env create -f environment.yml
 ```
 
