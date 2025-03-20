@@ -60,4 +60,4 @@ dependencies:
       - wcwidth==0.2.13
       - zipp==3.18.1
       - scipy==1.10.1
-      - spacy==2.3.7
+      - spacy==2.3.8
